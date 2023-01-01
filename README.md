@@ -1,3 +1,3 @@
-# Paper implementations
+# ML Projects
 
-Implementation of research papers I read. The code will most likely be in the form of a Google colab/Kaggle link. I will add the paper and link the dataset(because they are usually too big).
+This is a repository for storing any code and notes I write while learning ML/DL. Also containes reproductions of research papers.
